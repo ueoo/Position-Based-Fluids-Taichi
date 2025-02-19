@@ -457,7 +457,7 @@ class Fluid(object):
         # save_old_pos()
         # clear_forces()
         # add_gravity()
-        # # voricity confinement
+        # # vorticity confinement
         # find_neighbour()
         # compute_density()
         # add_vorticity_forces(vorticity_epsilon)
